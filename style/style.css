@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+table {
+   margin: auto;
+}
+
+th {
+   text-align: left;
+   color: white;
+}
+
+td {
+    width: 28%;
+}
+
+input{
+    margin-bottom: 5px;
+}
+
+.container {
+    height: 530px;
+    background-image: url("/images/planetas.webp");
+    
+}
+
+.div-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.btn{
+    height: 50px;
+    margin: 10px;
+    width: 150px;
+}
